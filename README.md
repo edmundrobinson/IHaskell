@@ -1,5 +1,7 @@
 ![jupyter](https://i.imgur.com/S16l2Hw.png) ![IHaskell](https://i.imgur.com/qhXXFbA.png) [![Build Status](https://github.com/gibiansky/IHaskell/workflows/CI/badge.svg)](https://github.com/gibiansky/IHaskell/actions?query=workflow%3ACI) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/gibiansky/IHaskell/master)
 
+Edmund's version: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/edmundrobinson/IHaskell/master)
+
 # IHaskell
 
 > You can now try IHaskell directly in your browser at [CoCalc](https://cocalc.com) or [mybinder.org](https://mybinder.org/v2/gh/gibiansky/IHaskell/master).
